@@ -40,10 +40,9 @@ html {
 }
 
 .main-navbar-nav .navbar-brand {
-  font-size: 38px;
-  letter-spacing: 4px;
+  font-size: 30px;
   position: relative;
-  top: -5px;
+  top: -3px;
   font-weight: 500;
 }
 
@@ -71,7 +70,7 @@ html {
 }
 .main-navbar-nav .nav-link {
   opacity: 1 !important;
-  margin: 0 35px;
+  margin: 0 20px;
   font-size: 14.5px;
   font-weight: 500;
 }
@@ -112,7 +111,7 @@ html {
   font-size: 15px;
   padding: 10px 15px;
   font-weight: 700;
-  color: #234197;
+  color: #313139;
 }
 .fh5co-hero-inner .features-btn-first {
   font-size: 15px;
@@ -139,7 +138,7 @@ html {
   overflow: hidden;
 }
 .fh5co-advantages-outer .span-perfect {
-  color: #648cff;
+  color: #303030;
   text-transform: uppercase;
   font-size: 27px;
   letter-spacing: 1px;
@@ -165,7 +164,7 @@ html {
   padding-right: 30px;
   position: relative;
   top: 1px;
-  color: #648cff;
+  color: #303030;
 }
 .fh5co-advantages-outer .fh5co-advantages-grid-columns .col-sm-4 .grid-title {
   float: left;
@@ -196,7 +195,7 @@ html {
   padding: 70px;
 }
 .fh5co-slider-outer h1 {
-  color: #648cff;
+  color: #303030;
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 600;
@@ -259,7 +258,7 @@ html {
   position: relative;
 }
 .fh5co-features-outer .sm-6-content h1 {
-  color: #648cff;
+  color: #303030;
   text-transform: uppercase;
   font-size: 25px;
   font-weight: 600;
@@ -415,7 +414,7 @@ html {
   margin-top: 100px;
 }
 .fh5co-reviews-outer > h1 {
-  color: #648cff;
+  color: #303030;
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 600;
@@ -479,7 +478,7 @@ html {
   width: 100%;
   padding: 50px;
   height: 250px;
-  background: #2e3149;
+  background: #000;
   overflow: hidden;
 }
 .footer-outer .footer-inner {
