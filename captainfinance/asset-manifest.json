@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/captainfinance/static/js/main.b334712c.js",
-    "static/js/530.6125f6b8.js": "/captainfinance/static/js/530.6125f6b8.js",
-    "static/media/Ionicons.ttf": "/captainfinance/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
-    "favicon.ico": "/captainfinance/favicon.ico",
-    "index.html": "/captainfinance/index.html",
-    "favicon-32.png": "/captainfinance/favicon-32.png",
-    "favicon-16.png": "/captainfinance/favicon-16.png",
-    "manifest.json": "/captainfinance/manifest.json",
-    "serve.json": "/captainfinance/serve.json",
-    "main.b334712c.js.map": "/captainfinance/static/js/main.b334712c.js.map",
-    "530.6125f6b8.js.map": "/captainfinance/static/js/530.6125f6b8.js.map"
+    "main.js": "./static/js/main.23fe37b1.js",
+    "static/js/530.6891341b.js": "./static/js/530.6891341b.js",
+    "static/media/Ionicons.ttf": "./static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "favicon.ico": "./favicon.ico",
+    "index.html": "./index.html",
+    "favicon-32.png": "./favicon-32.png",
+    "favicon-16.png": "./favicon-16.png",
+    "manifest.json": "./manifest.json",
+    "serve.json": "./serve.json",
+    "main.23fe37b1.js.map": "./static/js/main.23fe37b1.js.map",
+    "530.6891341b.js.map": "./static/js/530.6891341b.js.map"
   },
   "entrypoints": [
-    "/captainfinance/static/js/530.6125f6b8.js",
-    "/captainfinance/static/js/main.b334712c.js"
+    "static/js/530.6891341b.js",
+    "static/js/main.23fe37b1.js"
   ]
 }
