@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "./static/**/*.js",
+      "source": "/captainfinance/static/**/*.js",
       "headers": [
         {
           "key": "Cache-Control",

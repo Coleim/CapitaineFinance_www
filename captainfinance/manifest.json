@@ -4,7 +4,7 @@
   "lang": "en",
   "name": "CaptainFinance",
   "short_name": "CaptainFinance",
-  "start_url": "./?utm_source=web_app_manifest",
+  "start_url": "/captainfinance/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
